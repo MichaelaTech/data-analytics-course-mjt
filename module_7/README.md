@@ -7,6 +7,11 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 - [x] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
 - [x] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
+_Watched the videos below:
+
+<img width="450" alt="Domo Interface - Understanding Default Pages" src="https://youtu.be/PxpqRO7rJrM?list=PLc_JazWEwlVqiRoWcbD5My1Bw0_IpMX8z">
+
+
 # Assignment: 
 
 - [x] Email this edited README with your video lesson links and your completed assignment to data@tech-moms.org
