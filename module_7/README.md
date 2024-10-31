@@ -8,9 +8,14 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 - [x] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 _Watched the videos below:
+**DOMO IN DEPTH FOR CAPSTONE**
 
-<img width="450" alt="Domo Interface - Understanding Default Pages" src="https://youtu.be/PxpqRO7rJrM?list=PLc_JazWEwlVqiRoWcbD5My1Bw0_IpMX8z">
-
+- **Domo Interface - Understanding Default Pages** | "https://youtu.be/PxpqRO7rJrM?list=PLc_JazWEwlVqiRoWcbD5My1Bw0_IpMX8z"
+- **Dashboard Strategy Overview** | "https://youtu.be/7ULGsdibovI?list=PLc_JazWEwlVqiRoWcbD5My1Bw0_IpMX8z"
+- **Customer-Branded Landing Page** | "https://youtu.be/yXFS2uvD5Es?list=PLc_JazWEwlVqiRoWcbD5My1Bw0_IpMX8z"
+- **Dashboards Overview** | "https://youtu.be/oz799FYp8UI?list=PLc_JazWEwlVqiRoWcbD5My1Bw0_IpMX8z"
+              - Use pre-built dashboard to populate with frames
+- **Curated and Interactive Domo Dashboards** | "https://youtu.be/2d6fz6rHkl4"
 
 # Assignment: 
 
